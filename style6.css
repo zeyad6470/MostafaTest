@@ -1,0 +1,64 @@
+body 
+{
+  margin:0;
+  padding:0;
+  background-image:url(img/lamp2.jpg);
+  background-size:100%;
+  background-repeat:no repeat;
+
+}
+.contact-form
+{
+   width:85%;
+   max-width:500px; 
+   background:white;
+   margin-top:50px;
+   margin-left:500px;
+   padding:30px 40px;
+   border-radius:20px 20px;
+   text-align:center;
+   box-shadow:10px 10px 50px orange;
+   font-family:"Montserrat",sans-serif;
+}
+
+
+.txt
+{
+   border:1px solid grey;
+   margin:19px 0;
+   padding:12px 18px;
+   border-radius:20px 20px;
+
+}
+.txt label
+{
+   display:block;
+   text-align:left;
+   color:#333; 
+   text-transform:uppercase;
+   font-size:14px;
+}
+
+.txt input,.txt textarea
+{
+   width:100px:
+   border:none;
+   background:none;
+   font-size:18px;
+   margin-top:10px;
+   
+}
+
+.btn
+{
+  display:inline-block;
+  background:black;
+  padding:14px 0px;
+  color:white;
+  text-transform:uppercase;
+  cursor:pointer;
+  margin-top:8px;
+  width:100%;
+  text-align:center;
+}
+  
